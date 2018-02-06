@@ -64,7 +64,7 @@ This repository was intended to serve as an "auto-reply" inject server to easily
 ## Service Scoring
 
 ### Scoring Engine
-https://github.com/RITSPARSA/cyberengine
+https://github.com/pwnbus/scoring_engine
 
 This was the traditional scoring engine used for the competition.
 
