@@ -84,4 +84,11 @@ https://github.com/RITSPARSA/ISTS16-Vega
 https://github.com/RITSPARSA/ISTS16-Wolf
 
 
+## King of the Hill
+The following repositories were used to implement the KOTH component of ISTS 16.
+
+### KOTH Ansible
+https://github.com/RITSPARSA/ists16-koth-ansible
+
+This is a collection of ansible plays to build the KOTH vms.
 
